@@ -9,6 +9,6 @@ This project aimed at detecting gravitational waves in the data gathered by the 
 
 ### Approach
 1. Using support vector machines and kernel compositions.
-2. Using a Denoising stacked autoencoder.
+2. Using a [Denoising stacked autoencoder](https://github.com/PimSchoolkateUPC/GravitationalWaves_AML/blob/main/src/autoencoder.ipynb).
 
 For an in-depth analysis see the project [report](https://github.com/PimSchoolkateUPC/GravitationalWaves_AML/blob/main/AML-1.pdf).
