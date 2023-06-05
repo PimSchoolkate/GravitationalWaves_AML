@@ -1,6 +1,7 @@
 # Detecting Gravitational Waves
 
-**Contributors**: Enric Reverter and Pim Schoolkate
+**Contributors**: Enric Reverter and Pim Schoolkate.
+
 A project carried out as part of the Advanced Machine Learning (AML) course by Lluis Belanche at UPC. 
  
 ### Objective of the project
